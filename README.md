@@ -25,3 +25,8 @@ Compartilhar meus projetos e aprendizados;
 Desenvolver minhas habilidades em desenvolvimento web;
 Criar uma presença profissional online;
 Documentar minha evolução na programação.
+
+# Links
+
+LinkedIn: https://www.linkedin.com/in/la%C3%ADs-vitoria-da-silva-lemos-a2887a339/
+Portifólio: 
