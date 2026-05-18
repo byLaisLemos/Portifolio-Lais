@@ -17,7 +17,9 @@ acompanhamento da evolução do portfólio.
 
 # Tecnologias utilizadas
 
--Google Sites
+-HTML
+-CSS
+-GitHub
 
 # Objetivos
 
